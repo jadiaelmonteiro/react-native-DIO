@@ -1,6 +1,9 @@
 # Introdução ao React Native
 Curso de React Native
 
+![image](https://user-images.githubusercontent.com/66559540/172933092-f2a2b9e9-9952-4e49-9f9d-14c484b107c1.png)
+
+
 # Dependências
  + NodeJs 16.15.0 ou superior [Clique aqui para download](https://nodejs.org/en/) 
  + Chocolatey [Clique aqui para download](https://chocolatey.org/)
